@@ -18,6 +18,11 @@ namespace UebungCas1
             int resultat = Calculator.add(1, 5);
 
             Console.WriteLine("Das Resultat ist = " + resultat);
+
+            Console.WriteLine("das ist das feature 1");
+            Console.WriteLine("das ist das feature 2");
+
+
         }
     }
 }
