@@ -4,3 +4,5 @@ C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\bin\D
 C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\obj\Debug\UebungCas1.csprojResolveAssemblyReference.cache
 C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\obj\Debug\UebungCas1.exe
 C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\obj\Debug\UebungCas1.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\bin\Debug\Calculator.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\bin\Debug\Calculator.pdb
