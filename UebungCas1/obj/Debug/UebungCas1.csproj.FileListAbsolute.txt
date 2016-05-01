@@ -1,1 +1,6 @@
 C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\bin\Debug\UebungCas1.exe.config
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\bin\Debug\UebungCas1.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\bin\Debug\UebungCas1.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\obj\Debug\UebungCas1.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\obj\Debug\UebungCas1.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\UebungCas1\UebungCas1\obj\Debug\UebungCas1.pdb
